@@ -8,7 +8,7 @@ Moreover, added some link to my personal social media channel such as:
 
 as well as 
 
-3. My institutional **email** of the University of Geneva[^bignote]
+3. My institutional **email** of the University of Geneva.[^bignote]
 
 What are you waiting for? Go check them out!
 
