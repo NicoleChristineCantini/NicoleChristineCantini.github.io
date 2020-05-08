@@ -5,7 +5,7 @@ In addition to that, I added the picture of me that follows
 
 ![Me during Graduation DAy](/images/avatar2.jpg)
 
-and its favicon ![Favicon of the previous image](/images/favicon.ico), to let people know who they're reading about[^1].
+and its favicon ![Favicon of the previous image](/images/favicon.ico), to let people know who they're reading about.
 
 ---
 
@@ -15,8 +15,6 @@ Moreover, added some link to my personal social media channel such as:
 
 as well as 
 
-3. My institutional **email** of the University of Geneva
+3. My institutional **email** of the University of Geneva (This element may change during time for obvious reasons and I will update it when necessary)
 
 What are you waiting for? Go check them out!
-
-[^1] : This element may change during time for obvious reasons and I will update it when necessary.
