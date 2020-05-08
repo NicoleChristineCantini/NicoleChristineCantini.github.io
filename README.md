@@ -20,3 +20,4 @@ as well as
 [^1] : This element may change during time for obvious reasons and I will update it when necessary.
 
 What are you waiting for? Go check them out!
+
