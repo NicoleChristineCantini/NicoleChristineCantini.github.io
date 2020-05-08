@@ -13,4 +13,4 @@ as well as
 What are you waiting for? Go check them out!
 
 
-[^1]: This element may change during time for obvious reasons and I will update it when necessary.
+[^1] This element may change during time for obvious reasons and I will update it when necessary.
