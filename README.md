@@ -15,6 +15,6 @@ Moreover, added some link to my personal social media channel such as:
 
 as well as 
 
-3. My institutional **email** of the University of Geneva (This element may change during time for obvious reasons and I will update it when necessary)
+3. My institutional **email** of the University of Geneva (this may change during time for obvious reasons and I will update it when necessary)
 
 What are you waiting for? Go check them out!
